@@ -2,7 +2,7 @@
 Watch that shows your Date &amp; Time ingame
 
 # Usage
-Install the <a href = "https://github.com/Blas1ed/DateTimeWatch/releases/tag/Release-1">dll<a> into your Bepinex/Plugins folder
+Install the <a href = "https://github.com/Blas1ed/DateTimeWatch/releases/tag/Release-1">dll<a> into your Bepinex/Plugins folder <a href = "https://www.youtube.com/watch?v=Lu_-PPg6jSk">Vid Tut<a>
 
 # Mod Requirements
 
