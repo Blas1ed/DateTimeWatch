@@ -14,5 +14,5 @@ Install the <a href = "https://github.com/Blas1ed/DateTimeWatch/releases/tag/Rel
 # Stats
 ![GitHub all releases](https://img.shields.io/github/downloads/Blas1ed/DateTimeWatch/total?style=plastic&color=%23AAFF00)
 
-↑ 100 Downloads thnks yall
+↑ 200 Downloads thnks yall
 
